@@ -42,3 +42,5 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'active_model_serializers' # serializer
+
+gem 'dotenv-rails' # load ENV variables 
