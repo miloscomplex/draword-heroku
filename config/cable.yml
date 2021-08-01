@@ -10,5 +10,5 @@ test:
 
 production:
   adapter: redis
-  url: REDISTOGO_URL
+  url: redis://redistogo:53d9834be7927d697398ba41182bd74c@pearlfish.redistogo.com:10512/
   #channel_prefix: backend_production
